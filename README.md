@@ -68,4 +68,8 @@ Read the [License](License.md) for this book.
       - [Binary Operators](Computer%20Science/Digital%20Fundamentals/Binary/Binary%20Operators/README.md)
         - [XOR](Computer%20Science/Digital%20Fundamentals/Binary/Binary%20Operators/XOR.md) 
       - [Logic Gates](Computer%20Science/Digital%20Fundamentals/Binary/Logic%20Gates%20%26%20Binary%20Operators/Logic%20Gates.md)
+  - Offtop
+    - Scam
+      - [Hiring Scams](Offtop/Scam/Hiring%20Scams)
+        - [Lifehack for scammers](Offtop/Scam/Hiring%20Scams/Lifehack%20for%20scammers.md)
 
