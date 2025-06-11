@@ -54,7 +54,12 @@ Additionally:
 - [Lex Fridman](https://www.youtube.com/@lexfridman). `#Entertainment`
     - Great interviews, sometimes with tech individuals.
 
-    
+
+- [James Jani](https://www.youtube.com/@JamesJani). `#Entertainment`
+  - Documentary-style exposing videos.
+  - Recommend to watch [Crypto: The World’s Greatest Scam](https://www.youtube.com/watch?v=ORdWE_ffirg) where he literally said everything I was thinking about crypto.
+
+
 ---
 ## Learning
 
