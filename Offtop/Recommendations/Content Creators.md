@@ -13,6 +13,16 @@ _Note:_ I don't get any money from these recommendations, unfortunately. I respe
 
 
 ---
+## Interviews
+
+These individuals are not content creators, so it's recommended to watch their interviews: 
+
+- Linus Torvalds
+- Guido van Rossum (if you are about Python, otherwise the developer of your language)
+
+
+
+---
 ## Entertainment
 
 
@@ -21,7 +31,6 @@ _Note:_ I don't get any money from these recommendations, unfortunately. I respe
   - This guy codes more than lots of chest-puffing "seniors" and "course-sellers" live, however, he can humbly say "I don't know" or "I want to learn deeper" whereas having hands-on experience of years in it. It's a rare thing. 
   - I recommend starting from "[MAXIMUM CRINGE Programming Language Tier List | Prime Reacts](https://www.youtube.com/watch?v=SXHsPKPD_eo&t=5s)"  to understand the difference between a **_yapper (how to not be)_** and a **_professional developer (how to be)_**. 
     - By the way, that yapper is an opinion-leader and top-voice on LinkedIn, tho. _That's everything you need to know about LinkedIn._
-
 
 
 - [Programmers are also human](https://www.youtube.com/@programmersarealsohuman5909/videos). `#Entertainment`
@@ -40,7 +49,12 @@ _Note:_ I don't get any money from these recommendations, unfortunately. I respe
 - [PC Security Channel](https://www.youtube.com/@pcsecuritychannel) `#Learning #News`
   - A great channel about cybersecurity. 
 
+Additionally:
 
+- [Lex Fridman](https://www.youtube.com/@lexfridman). `#Entertainment`
+    - Great interviews, sometimes with tech individuals.
+
+    
 ---
 ## Learning
 
