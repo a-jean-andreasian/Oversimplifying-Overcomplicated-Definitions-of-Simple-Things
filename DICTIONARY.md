@@ -1,0 +1,5 @@
+- [Binary](Computer%20Science/Digital%20Fundamentals/Binary/What%20is%20binary.md)
+- [Binary Operators](Computer%20Science/Digital%20Fundamentals/Binary/Logic%20Gates%20%26%20Binary%20Operators/Binary%20Operators.md)
+- [Logic Gates](Computer%20Science/Digital%20Fundamentals/Binary/Logic%20Gates%20%26%20Binary%20Operators/Logic%20Gates.md)
+- [Microcode](Computer%20Science/Digital%20Fundamentals/Binary/Microcode.md)
+- [XOR](Computer%20Science/Digital%20Fundamentals/Binary/Logic%20Gates%20%26%20Binary%20Operators/xor.md)

@@ -55,9 +55,12 @@ Read the [License](License.md) for this book.
 # The Chapter List
 
 - Computer Science
+  - History
+    - [Evolution of Computers](Computer%20Science/History/Evolution%20of%20Computers.md)
+    - [Evolution of Web](Computer%20Science/History/Evolution%20of%20Web.md)
   - Digital Fundamentals
     - [Binary](Computer%20Science/Digital%20Fundamentals/Binary/README.md)
-      - [What is Binary?](Computer%20Science/Digital%20Fundamentals/Binary/What%20is%20Binary.md)
+      - [What is Binary?](Computer%20Science/Digital%20Fundamentals/Binary/What%20is%20binary.md)
       - [Counting Binary](Computer%20Science/Digital%20Fundamentals/Binary/Counting%20Binary.md)
       - [How Binary is Represented in Hardware](Computer%20Science/Digital%20Fundamentals/Binary/How%20Binary%20is%20Represented%20in%20Hardware.md)
       - [How CPU Processes Binary](Computer%20Science/Digital%20Fundamentals/Binary/How%20CPU%20Processes%20Binary.md)
