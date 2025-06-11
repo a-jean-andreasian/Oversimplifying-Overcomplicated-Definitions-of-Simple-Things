@@ -15,7 +15,7 @@ Copyright © Armen-Jean Andreasian (the owner of this repository) 2025
 
 
 3. **No Modification, Copying, or Redistribution**
-   You are **not allowed** to modify, translate, copy, mirror, publish, or redistribute this book in any form (digital or physical).
+   - You are **not allowed** to modify, translate, copy, mirror, publish, or redistribute this book in any form (digital or physical).
 
 
 4. **No AI Training**
