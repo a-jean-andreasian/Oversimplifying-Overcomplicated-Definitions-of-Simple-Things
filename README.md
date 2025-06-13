@@ -54,7 +54,7 @@ Read the [License](License.md) for this book.
 ----
 # The Chapter List
 
-- Computer Science
+- **Computer Science**
   - History
     - [Evolution of Computers](Computer%20Science/History/Evolution%20of%20Computers.md)
     - [Evolution of Web](Computer%20Science/History/Evolution%20of%20Web.md)
@@ -68,10 +68,27 @@ Read the [License](License.md) for this book.
       - [Binary Operators](Computer%20Science/Digital%20Fundamentals/Binary/Binary%20Operators/README.md)
         - [XOR](Computer%20Science/Digital%20Fundamentals/Binary/Binary%20Operators/XOR.md) 
       - [Logic Gates](Computer%20Science/Digital%20Fundamentals/Binary/Logic%20Gates%20%26%20Binary%20Operators/Logic%20Gates.md)
-  - Offtop
-    - Recommendations
-      - [Content Creators I recommend](Offtop/Recommendations/Content%20Creators.md)
-    - Scam
-      - [Hiring Scams](Offtop/Scam/Hiring%20Scams)
-        - [Lifehack for scammers](Offtop/Scam/Hiring%20Scams/Lifehack%20for%20scammers.md)
+
+
+- **Data**
+  - [Pipe](Data/Pipe/Pipe.md)
+    - [Collection Pipe](Data/Pipe/Types%20of%20Pipes/Collection%20Pipe.md)
+    - [Processing Pipe](Data/Pipe/Types%20of%20Pipes/Processing%20Pipe.md)
+    - [Transformation Pipe](Data/Pipe/Types%20of%20Pipes/Transformation%20Pipe.md)
+    - [Transport Pipe](Data/Pipe/Types%20of%20Pipes/Transport%20Pipe.md)
+
+
+- **Tools**
+  - [Beat agents (Beats)](Tools/Beats/Beats.md)
+  - [Flink](Tools/Flink/Flink.md)
+  - [Logstash](Tools/Logstash/Logstash.md)
+  - [Redis Streams](Tools/Redis%20Streams/Redis%20Streams.md)
+
+
+- **Offtop**
+  - Recommendations
+    - [Content Creators I recommend](Offtop/Recommendations/Content%20Creators.md)
+  - Scam
+    - [Hiring Scams](Offtop/Scam/Hiring%20Scams)
+      - [Lifehack for scammers](Offtop/Scam/Hiring%20Scams/Lifehack%20for%20scammers.md)
 
