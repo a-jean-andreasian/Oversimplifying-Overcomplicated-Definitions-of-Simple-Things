@@ -88,6 +88,8 @@ Read the [License](License.md) for this book.
 - **Offtop**
   - Recommendations
     - [Content Creators I recommend](Offtop/Recommendations/Content%20Creators.md)
+  - Trash
+    - [Gatekeeping](Offtop/Trash/Gatekeeping.md)
   - Scam
     - [Hiring Scams](Offtop/Scam/Hiring%20Scams)
       - [Lifehack for scammers](Offtop/Scam/Hiring%20Scams/Lifehack%20for%20scammers.md)

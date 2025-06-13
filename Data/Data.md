@@ -2,6 +2,21 @@ _This paragraph is part of the book *Oversimplifying Overcomplicated Definitions
 Andreasian._
 
 ---
+# Intro
+
+This part related to data engineering.
+
+- If you are a developer, **this is not your responsibility**.
+- The maximum you need to do is to call a `track_event`, which:
+  - The data engineer provided you if the company has it own pipeline. Or:
+  - The devops provides if some SDK is used.
+
+That said, if you are a developer - you can safely skip this entire section.
+
+
+You don’t build the pipe — you just flush something into it.
+
+---
 
 # What is data?
 
