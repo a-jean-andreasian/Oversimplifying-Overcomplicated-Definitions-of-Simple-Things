@@ -3,7 +3,7 @@ _This paragraph is part of the book *Oversimplifying Overcomplicated Definitions
 ---
 # What is a collection pipe?
 
-Collection pipe gathers raw data, and can do basic transformation _(like adding metadata)_.
+Collection [pipe](../Pipe.md) gathers raw data, and can do basic transformation _(like adding metadata)_.
 
 ---
 ## Example
