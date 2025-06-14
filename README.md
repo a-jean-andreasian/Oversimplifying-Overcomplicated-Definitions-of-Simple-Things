@@ -1,7 +1,7 @@
 # Oversimplifying Overcomplicated Definitions of Simple Things
 
 ---
-![cover.png](.github/img/cover.png)
+[![cover.png](.github/img/cover.png)](Offtop/Scam/Clean%20Code.md)
 
 Copyright © Armen-Jean Andreasian, 9 June 2025
 
