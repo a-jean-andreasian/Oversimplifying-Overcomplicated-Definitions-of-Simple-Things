@@ -1,4 +1,4 @@
-# Attacking the cult: Clean Code - Pure Cult
+# Attacking the cult: Clean Code
 
 ----------
 
