@@ -12,11 +12,9 @@
 
 ## The mindset I want to promote
 
-### 1. No matter how confident the talker is, always ask: “Who’s saying?”, “What’s the proof?”, “Why should I believe you?”, “What’s your profit?”
+### 1. No matter how confident the talker is, always ask: “Who’s saying?”, “What’s the proof?”, “Why should I believe you?”, “What’s your profit?” I won’t agree with anything but directly related facts. Cut to the chase. I don’t care about marketing: you can keep talking, then I will ask for facts. Emotions, feelings, experience, titles - are not related facts.
 
-### 2. I won’t agree with anything but directly related facts. Cut to the chase. I don’t care about marketing: you can keep talking, then I will ask for facts. Emotions, feelings, experience, titles - are not related facts.
-
-### 3. Be "Oh wow, everyone understood, but I still have questions" one.
+### 2. Be "Oh wow, everyone understood - great, but I still have questions" one. Don't be shy.
 
 Lastly, remember your high school. How many critically thinking classmates you had? See? It's always the same ratio.
 
