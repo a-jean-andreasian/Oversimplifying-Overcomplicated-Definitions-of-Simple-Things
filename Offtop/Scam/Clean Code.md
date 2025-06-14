@@ -18,9 +18,17 @@
 
 Lastly, remember your high school. How many critically thinking classmates you had? See? It's always the same ratio.
 
+---
+## Some of those principles _do_ help maintainability when used with common sense.
+
+Yes, but, he has not invented them.
+
+**Robert Martin didn’t invent SOLID. He popularized and packaged pre-existing ideas.**  
+The SOLID principles were coined by Michael Feathers based on earlier work from Barbara Liskov, Bertrand Meyer, and others. Martin just bundled them into a convenient acronym and added his opinionated takes around them.
+
 ----------
 
-## Misleading
+# Part 1: Misleading
 
 1.  The irrelevance of the outdated Java-specific concepts is mind-blowing.
 
@@ -65,7 +73,7 @@ Lastly, remember your high school. How many critically thinking classmates you h
 
 ----------
 
-## The most important part: arrogance
+# Part 2: Arrogance
 
 This year, in 2025, I finally listened to _Clean Code_ and _Clean Architecture_ after 13 years (I couldn't find the book in university years, then I was lazy).
 
@@ -81,7 +89,7 @@ So I went looking for his engineering legacy.
 
 ----------
 
-## The legacy of Robert Martin
+# Part 3: The legacy of Robert Martin
 
 And the “best ever programmer” has:
 
@@ -115,14 +123,6 @@ Microservices are not God's gift. However, microservices:
 Someone argued with me recently and said, “Microservices are also not needed in most cases” - in the context of “All approaches have strengths and weaknesses” (like monolith vs microservices).  
 The point here is the scaling problem - which microservices actually solve. And if you don’t overengineer (which would be misuse), you’re guaranteed to have a scalable app.  
 Whereas “Clean Code” doesn’t guarantee anything.
-
----
-## Some of those principles _do_ help maintainability when used with common sense.
-
-Yes, but, he has not invented them.
-
-**Robert Martin didn’t invent SOLID. He popularized and packaged pre-existing ideas.**  
-The SOLID principles were coined by Michael Feathers based on earlier work from Barbara Liskov, Bertrand Meyer, and others. Martin just bundled them into a convenient acronym and added his opinionated takes around them.
 
 --- 
 ## The cult
